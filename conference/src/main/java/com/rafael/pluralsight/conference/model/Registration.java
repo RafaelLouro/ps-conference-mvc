@@ -1,4 +1,4 @@
-package com.rafael.pluralsight.conferece.model;
+package com.rafael.pluralsight.conference.model;
 
 public class Registration {
     private String name;

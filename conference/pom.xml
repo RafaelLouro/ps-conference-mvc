@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.rafael.pluralsight</groupId>
-    <artifactId>conferece</artifactId>
+    <artifactId>conference</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>conferece</name>
+    <name>conference</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

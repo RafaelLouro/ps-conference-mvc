@@ -1,4 +1,4 @@
-package com.rafael.pluralsight.conferece.controller;
+package com.rafael.pluralsight.conference.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

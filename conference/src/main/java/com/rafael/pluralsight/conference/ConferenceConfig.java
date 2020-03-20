@@ -1,4 +1,4 @@
-package com.rafael.pluralsight.conferece;
+package com.rafael.pluralsight.conference;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

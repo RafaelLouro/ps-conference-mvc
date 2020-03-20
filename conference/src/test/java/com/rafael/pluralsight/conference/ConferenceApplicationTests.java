@@ -1,10 +1,10 @@
-package com.rafael.pluralsight.conferece;
+package com.rafael.pluralsight.conference;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfereceApplicationTests {
+class ConferenceApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,14 +1,14 @@
-package com.rafael.pluralsight.conferece;
+package com.rafael.pluralsight.conference;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class ConfereceApplication extends SpringBootServletInitializer {
+public class ConferenceApplication extends SpringBootServletInitializer {
 
     public static void main(String[] args) {
-        SpringApplication.run(ConfereceApplication.class, args);
+        SpringApplication.run(ConferenceApplication.class, args);
     }
 
 }
